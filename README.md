@@ -17,7 +17,7 @@ clonar el repositorio o descargarlo a su maquina el alguna ubicacion
  deactivate
 
 
- uno vez conseguido eso entran a cualquiera de los dos directorios (son formas diferentes de armar un CMS) y paso seguido ejecutaran lo siguiente
+ uno vez conseguido eso entran a cualquiera de los dos directorios cmsDemo o tutorial (son formas diferentes de armar un CMS) y paso seguido ejecutaran lo siguiente
 
 
  python manage.py runserver 
